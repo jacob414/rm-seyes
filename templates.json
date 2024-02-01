@@ -1,0 +1,12 @@
+{
+  "templates": [
+    {
+      "name": "Page réglure Séyès",
+      "filename": "seyes",
+      "iconCode": "\ue9dd",
+      "categories": [
+        "Grids"
+      ]
+    }
+  ]
+}
