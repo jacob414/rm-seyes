@@ -1,0 +1,20 @@
+* Page réglure Séyès for the ReMarkable tablet
+
+The [[https://fr.wikipedia.org/wiki/R%C3%A9glure][Page régulre Séyès]] is a french standard used in schools to promote
+better handwriting. Please refer to the french Wikipedia article for
+details.
+
+** Installation
+
+For installation of the template, you transfer the files to known
+positions in the ReMarkable file system using SSH.
+
+For details, please read [[https://philerb.com/2021/12/26/remarkable-tablet-ssh/][this]] guide.
+
+** Source material / additional licensing info
+
+The SVG comes from [[https://commons.wikimedia.org/wiki/File:Page_blanche_A4_reglure_Seyes.svg][here]], WikiMedia Commons. I've loaded it in to a
+vector editing program to enshure that that it's dimensions fit the
+ReMarkable.
+
+There are some additional licencing notes [[https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia][here.]]
